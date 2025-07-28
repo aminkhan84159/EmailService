@@ -1,0 +1,817 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\meshcomm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\meshcomm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\interfaces\\iwebhookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\interfaces\\iwebhookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\manager\\emaillogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\manager\\emaillogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\manager\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\manager\\emailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\manager\\webhookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\manager\\webhookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\interfaces\\iemailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\interfaces\\iemailmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business\\interfaces\\iemaillogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:meshcomm.business\\interfaces\\iemaillogmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.handlers\\email\\sendemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|solutionrelative:meshcomm.handlers\\email\\sendemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.handlers\\emaillog\\getemailloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|solutionrelative:meshcomm.handlers\\emaillog\\getemailloghandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.handlers\\webhook\\webhookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|MeshComm.Handlers\\MeshComm.Handlers.csproj|solutionrelative:meshcomm.handlers\\webhook\\webhookhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|solutionrelative:meshcomm.entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.entities\\validators\\emaillogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|solutionrelative:meshcomm.entities\\validators\\emaillogvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.entities\\entities\\emaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|MeshComm.Entities\\MeshComm.Entities.csproj|solutionrelative:meshcomm.entities\\entities\\emaillog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B32D2-E069-4470-89C3-702A154588B5}|MeshComm.DataServices\\MeshComm.DataServices.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.dataservices\\dataservices\\emaillogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B32D2-E069-4470-89C3-702A154588B5}|MeshComm.DataServices\\MeshComm.DataServices.csproj|solutionrelative:meshcomm.dataservices\\dataservices\\emaillogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF0B32D2-E069-4470-89C3-702A154588B5}|MeshComm.DataServices\\MeshComm.DataServices.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.dataservices\\interfaces\\iemaillogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF0B32D2-E069-4470-89C3-702A154588B5}|MeshComm.DataServices\\MeshComm.DataServices.csproj|solutionrelative:meshcomm.dataservices\\interfaces\\iemaillogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.data\\messages\\webhook\\webhookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|solutionrelative:meshcomm.data\\messages\\webhook\\webhookrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.data\\messages\\emaillog\\getemailloglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|solutionrelative:meshcomm.data\\messages\\emaillog\\getemailloglist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.data\\messages\\email\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|solutionrelative:meshcomm.data\\messages\\email\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.data\\enums\\emailtransmissionstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|solutionrelative:meshcomm.data\\enums\\emailtransmissionstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.data\\dtos\\emaillogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A60A5EEC-85B0-49C5-AEC9-13E721E56D20}|MeshComm.Data\\MeshComm.Data.csproj|solutionrelative:meshcomm.data\\dtos\\emaillogdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\messages\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\messages\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\messages\\requestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\messages\\requestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\interfaces\\iresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\interfaces\\iresponsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\interfaces\\irequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\interfaces\\irequestbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\handlers\\handlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\handlers\\handlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\serviceframework\\enums\\responsestatustypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\serviceframework\\enums\\responsestatustypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\services\\genericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\services\\basedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\services\\basedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\managers\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\managers\\genericmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\interfaces\\igenericservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\interfaces\\iabstractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\interfaces\\iabstractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.core\\data\\objectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C597EA7-82DA-442D-A4DD-3B8F2BC1A31C}|MeshComm.Core\\MeshComm.Core.csproj|solutionrelative:meshcomm.core\\data\\objectbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\zohoresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\zohoresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\zohoemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\zohoemailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\zohoemailaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\zohoemailaddressmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\torecipientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\torecipientmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\toccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\toccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\tobccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\tobccmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\models\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\models\\emaildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\manager\\zohocommunicationservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\manager\\zohocommunicationservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.business.api\\interfaces\\izohocommunicationservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8DD94E7-FF46-4C83-8AB2-56F4C3015CBF}|MeshComm.Business.Api\\MeshComm.Business.Api.csproj|solutionrelative:meshcomm.business.api\\interfaces\\izohocommunicationservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\controllers\\emaillogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\controllers\\emaillogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\meshcomm.api\\authorization\\statictokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|MeshComm.API\\MeshComm.API.csproj|solutionrelative:meshcomm.api\\authorization\\statictokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MeshComm.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\appsettings.Development.json*",
+              "RelativeToolTip": "MeshComm.API\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T11:05:06.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeshComm.API",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\MeshComm.API.csproj",
+              "RelativeDocumentMoniker": "MeshComm.API\\MeshComm.API.csproj",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\MeshComm.API.csproj",
+              "RelativeToolTip": "MeshComm.API\\MeshComm.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T11:03:35.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.302\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACEAAAAAAAAAAAAvwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-28T11:02:18.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmailLogManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IEmailLogManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Interfaces\\IEmailLogManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IEmailLogManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Interfaces\\IEmailLogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:29:31.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IEmailManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Interfaces\\IEmailManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IEmailManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Interfaces\\IEmailManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:29:39.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebhookManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\WebhookManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Manager\\WebhookManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\WebhookManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Manager\\WebhookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:30:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\EmailManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Manager\\EmailManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\EmailManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Manager\\EmailManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:30:06.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailLogManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\EmailLogManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Manager\\EmailLogManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Manager\\EmailLogManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Manager\\EmailLogManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:29:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWebhookManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IWebhookManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business\\Interfaces\\IWebhookManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business\\Interfaces\\IWebhookManager.cs",
+              "RelativeToolTip": "MeshComm.Business\\Interfaces\\IWebhookManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:29:47.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Program.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\Program.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Program.cs",
+              "RelativeToolTip": "MeshComm.API\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAADwv1wAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:17:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SendEmailHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\Email\\SendEmailHandler.cs",
+              "RelativeDocumentMoniker": "MeshComm.Handlers\\Email\\SendEmailHandler.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\Email\\SendEmailHandler.cs",
+              "RelativeToolTip": "MeshComm.Handlers\\Email\\SendEmailHandler.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:56:07.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetEmailLogHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\EmailLog\\GetEmailLogHandler.cs",
+              "RelativeDocumentMoniker": "MeshComm.Handlers\\EmailLog\\GetEmailLogHandler.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\EmailLog\\GetEmailLogHandler.cs",
+              "RelativeToolTip": "MeshComm.Handlers\\EmailLog\\GetEmailLogHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:56:42.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WebhookHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\Webhook\\WebhookHandler.cs",
+              "RelativeDocumentMoniker": "MeshComm.Handlers\\Webhook\\WebhookHandler.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Handlers\\Webhook\\WebhookHandler.cs",
+              "RelativeToolTip": "MeshComm.Handlers\\Webhook\\WebhookHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:56:55.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmailContext.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\EmailContext.cs",
+              "RelativeDocumentMoniker": "MeshComm.Entities\\EmailContext.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\EmailContext.cs",
+              "RelativeToolTip": "MeshComm.Entities\\EmailContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:37:27.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WebhookRequest.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\Webhook\\WebhookRequest.cs",
+              "RelativeDocumentMoniker": "MeshComm.Data\\Messages\\Webhook\\WebhookRequest.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\Webhook\\WebhookRequest.cs",
+              "RelativeToolTip": "MeshComm.Data\\Messages\\Webhook\\WebhookRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:36:14.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailLogService.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.DataServices\\DataServices\\EmailLogService.cs",
+              "RelativeDocumentMoniker": "MeshComm.DataServices\\DataServices\\EmailLogService.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.DataServices\\DataServices\\EmailLogService.cs",
+              "RelativeToolTip": "MeshComm.DataServices\\DataServices\\EmailLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:36:31.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmailLogService.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.DataServices\\Interfaces\\IEmailLogService.cs",
+              "RelativeDocumentMoniker": "MeshComm.DataServices\\Interfaces\\IEmailLogService.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.DataServices\\Interfaces\\IEmailLogService.cs",
+              "RelativeToolTip": "MeshComm.DataServices\\Interfaces\\IEmailLogService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:36:53.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmailLog.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\Entities\\EmailLog.cs",
+              "RelativeDocumentMoniker": "MeshComm.Entities\\Entities\\EmailLog.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\Entities\\EmailLog.cs",
+              "RelativeToolTip": "MeshComm.Entities\\Entities\\EmailLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:37:11.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailLogValidator.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\Validators\\EmailLogValidator.cs",
+              "RelativeDocumentMoniker": "MeshComm.Entities\\Validators\\EmailLogValidator.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Entities\\Validators\\EmailLogValidator.cs",
+              "RelativeToolTip": "MeshComm.Entities\\Validators\\EmailLogValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:37:20.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetEmailLogList.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\EmailLog\\GetEmailLogList.cs",
+              "RelativeDocumentMoniker": "MeshComm.Data\\Messages\\EmailLog\\GetEmailLogList.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\EmailLog\\GetEmailLogList.cs",
+              "RelativeToolTip": "MeshComm.Data\\Messages\\EmailLog\\GetEmailLogList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:36:03.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\Email\\SendEmail.cs",
+              "RelativeDocumentMoniker": "MeshComm.Data\\Messages\\Email\\SendEmail.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Messages\\Email\\SendEmail.cs",
+              "RelativeToolTip": "MeshComm.Data\\Messages\\Email\\SendEmail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:35:53.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailTransmissionStateEnum.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Enums\\EmailTransmissionStateEnum.cs",
+              "RelativeDocumentMoniker": "MeshComm.Data\\Enums\\EmailTransmissionStateEnum.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Enums\\EmailTransmissionStateEnum.cs",
+              "RelativeToolTip": "MeshComm.Data\\Enums\\EmailTransmissionStateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:35:05.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmailLogDto.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Dtos\\EmailLogDto.cs",
+              "RelativeDocumentMoniker": "MeshComm.Data\\Dtos\\EmailLogDto.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Data\\Dtos\\EmailLogDto.cs",
+              "RelativeToolTip": "MeshComm.Data\\Dtos\\EmailLogDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:34:58.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Messages\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Messages\\ResponseBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Messages\\ResponseBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Messages\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:34:33.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequestBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Messages\\RequestBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Messages\\RequestBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Messages\\RequestBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Messages\\RequestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:34:26.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Interfaces\\IResponseBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Interfaces\\IResponseBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Interfaces\\IResponseBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Interfaces\\IResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:34:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRequestBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Interfaces\\IRequestBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Interfaces\\IRequestBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Interfaces\\IRequestBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Interfaces\\IRequestBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:34:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "HandlerBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Handlers\\HandlerBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Handlers\\HandlerBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Handlers\\HandlerBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Handlers\\HandlerBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:52.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResponseStatusTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Enums\\ResponseStatusTypeEnum.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\ServiceFramework\\Enums\\ResponseStatusTypeEnum.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\ServiceFramework\\Enums\\ResponseStatusTypeEnum.cs",
+              "RelativeToolTip": "MeshComm.Core\\ServiceFramework\\Enums\\ResponseStatusTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:45.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GenericService.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Services\\GenericService.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Services\\GenericService.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Services\\GenericService.cs",
+              "RelativeToolTip": "MeshComm.Core\\Services\\GenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseDataService.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Services\\BaseDataService.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Services\\BaseDataService.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Services\\BaseDataService.cs",
+              "RelativeToolTip": "MeshComm.Core\\Services\\BaseDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:25.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenericManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Managers\\GenericManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Managers\\GenericManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Managers\\GenericManager.cs",
+              "RelativeToolTip": "MeshComm.Core\\Managers\\GenericManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:18.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IGenericService.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Interfaces\\IGenericService.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Interfaces\\IGenericService.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Interfaces\\IGenericService.cs",
+              "RelativeToolTip": "MeshComm.Core\\Interfaces\\IGenericService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:12.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IAbstractValidator.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Interfaces\\IAbstractValidator.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Interfaces\\IAbstractValidator.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Interfaces\\IAbstractValidator.cs",
+              "RelativeToolTip": "MeshComm.Core\\Interfaces\\IAbstractValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:33:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ObjectBase.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Data\\ObjectBase.cs",
+              "RelativeDocumentMoniker": "MeshComm.Core\\Data\\ObjectBase.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Core\\Data\\ObjectBase.cs",
+              "RelativeToolTip": "MeshComm.Core\\Data\\ObjectBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ZohoResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoResponseModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ZohoResponseModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoResponseModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ZohoResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:48.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ZohoEmailModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoEmailModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ZohoEmailModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoEmailModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ZohoEmailModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:43.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ZohoEmailAddressModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoEmailAddressModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ZohoEmailAddressModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ZohoEmailAddressModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ZohoEmailAddressModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:38.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ToRecipientModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToRecipientModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ToRecipientModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToRecipientModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ToRecipientModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:33.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ToCcModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToCcModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ToCcModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToCcModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ToCcModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ToBccModel.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToBccModel.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\ToBccModel.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\ToBccModel.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\ToBccModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailData.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\EmailData.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Models\\EmailData.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Models\\EmailData.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Models\\EmailData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:16.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ZohoCommunicationServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Manager\\ZohoCommunicationServiceManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Manager\\ZohoCommunicationServiceManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Manager\\ZohoCommunicationServiceManager.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Manager\\ZohoCommunicationServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:32:04.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IZohoCommunicationServiceManager.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Interfaces\\IZohoCommunicationServiceManager.cs",
+              "RelativeDocumentMoniker": "MeshComm.Business.Api\\Interfaces\\IZohoCommunicationServiceManager.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.Business.Api\\Interfaces\\IZohoCommunicationServiceManager.cs",
+              "RelativeToolTip": "MeshComm.Business.Api\\Interfaces\\IZohoCommunicationServiceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:31:55.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\ApiController.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\ApiController.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\ApiController.cs",
+              "RelativeToolTip": "MeshComm.API\\ApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:31:28.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "MeshComm.API\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:31:17.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EmailLogController.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\EmailLogController.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\Controllers\\EmailLogController.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\EmailLogController.cs",
+              "RelativeToolTip": "MeshComm.API\\Controllers\\EmailLogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:31:04.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "MeshComm.API\\Controllers\\EmailController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:30:56.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "StaticTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Authorization\\StaticTokenHandler.cs",
+              "RelativeDocumentMoniker": "MeshComm.API\\Authorization\\StaticTokenHandler.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\MeshComm.API\\Authorization\\StaticTokenHandler.cs",
+              "RelativeToolTip": "MeshComm.API\\Authorization\\StaticTokenHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:30:44.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

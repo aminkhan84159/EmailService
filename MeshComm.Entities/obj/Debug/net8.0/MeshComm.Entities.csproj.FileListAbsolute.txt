@@ -1,0 +1,17 @@
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Entities.deps.json
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Entities.runtimeconfig.json
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Entities.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Entities.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Core.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\bin\Debug\net8.0\MeshComm.Core.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.csproj.AssemblyReference.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.AssemblyInfoInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.AssemblyInfo.cs
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.csproj.CoreCompileInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.1D6F4A15.Up2Date
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\refint\MeshComm.Entities.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\MeshComm.Entities.genruntimeconfig.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Entities\obj\Debug\net8.0\ref\MeshComm.Entities.dll

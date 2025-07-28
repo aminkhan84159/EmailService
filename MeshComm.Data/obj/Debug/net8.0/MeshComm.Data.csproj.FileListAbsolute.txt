@@ -1,0 +1,15 @@
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\bin\Debug\net8.0\MeshComm.Data.deps.json
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\bin\Debug\net8.0\MeshComm.Data.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\bin\Debug\net8.0\MeshComm.Data.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\bin\Debug\net8.0\MeshComm.Core.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\bin\Debug\net8.0\MeshComm.Core.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.csproj.AssemblyReference.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.AssemblyInfoInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.AssemblyInfo.cs
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.csproj.CoreCompileInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.A069A626.Up2Date
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\refint\MeshComm.Data.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\MeshComm.Data.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Data\obj\Debug\net8.0\ref\MeshComm.Data.dll

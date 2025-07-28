@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.handlers\\meshcomm.handlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{55541B1F-DCD8-4A02-8F1F-8492601FE885}|Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj|solutionrelative:gdtc.meshcomm.handlers\\meshcomm.handlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|Gdtc.MeshComm.Entities\\MeshComm.Entities.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB4B8188-5BAB-4EA9-82F5-1EB1D3383084}|Gdtc.MeshComm.Entities\\MeshComm.Entities.csproj|solutionrelative:gdtc.meshcomm.entities\\emailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|Gdtc.MeshComm.Business\\MeshComm.Business.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.business\\meshcomm.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6C80BDD5-EF7B-43D5-B90C-284865886784}|Gdtc.MeshComm.Business\\MeshComm.Business.csproj|solutionrelative:gdtc.meshcomm.business\\meshcomm.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\appsettings.qa.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\controllers\\webhookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27FEEEFC-8CC3-4E02-9E60-88E9E5991285}|Gdtc.MeshComm.Template\\MeshComm.Template.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.template\\templates\\gdtcemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27FEEEFC-8CC3-4E02-9E60-88E9E5991285}|Gdtc.MeshComm.Template\\MeshComm.Template.csproj|solutionrelative:gdtc.meshcomm.template\\templates\\gdtcemailtemplate.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\meshcomm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\meshcomm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\Gdtc.MeshComm.API.csproj|c:\\users\\aminkhan\\source\\repos\\emailservice\\gdtc.meshcomm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E97D960F-2F8C-4650-9406-288BDCDFE87D}|Gdtc.MeshComm.API\\Gdtc.MeshComm.API.csproj|solutionrelative:gdtc.meshcomm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeshComm.Handlers",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj*",
+              "RelativeToolTip": "Gdtc.MeshComm.Handlers\\MeshComm.Handlers.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T10:06:28.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailContext.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Entities\\EmailContext.cs",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.Entities\\EmailContext.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Entities\\EmailContext.cs*",
+              "RelativeToolTip": "Gdtc.MeshComm.Entities\\EmailContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T10:03:36.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeshComm.Business",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Business\\MeshComm.Business.csproj",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.Business\\MeshComm.Business.csproj",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Business\\MeshComm.Business.csproj",
+              "RelativeToolTip": "Gdtc.MeshComm.Business\\MeshComm.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T09:59:46.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.QA.json",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.QA.json",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\appsettings.QA.json",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.QA.json",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\appsettings.QA.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T09:59:02.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.Production.json",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T09:58:41.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.Development.json",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T09:57:05.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\appsettings.json*",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T09:56:52.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WebhookController.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\Controllers\\WebhookController.cs",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\Controllers\\WebhookController.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\Controllers\\WebhookController.cs",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\Controllers\\WebhookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:56:21.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GdtcEmailTemplate.html",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Template\\Templates\\GdtcEmailTemplate.html",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.Template\\Templates\\GdtcEmailTemplate.html",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.Template\\Templates\\GdtcEmailTemplate.html",
+              "RelativeToolTip": "Gdtc.MeshComm.Template\\Templates\\GdtcEmailTemplate.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-28T09:50:59.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeshComm.API.csproj",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\MeshComm.API.csproj",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\MeshComm.API.csproj",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\MeshComm.API.csproj*",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\MeshComm.API.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-28T09:47:44.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\Program.cs",
+              "RelativeDocumentMoniker": "Gdtc.MeshComm.API\\Program.cs",
+              "ToolTip": "C:\\Users\\AminKhan\\source\\repos\\EmailService\\Gdtc.MeshComm.API\\Program.cs",
+              "RelativeToolTip": "Gdtc.MeshComm.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T09:46:17.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MeshComm.Business.Api\MeshComm.Business.Api.csproj" />
+    <ProjectReference Include="..\MeshComm.Core\MeshComm.Core.csproj" />
+    <ProjectReference Include="..\MeshComm.DataServices\MeshComm.DataServices.csproj" />
+    <ProjectReference Include="..\MeshComm.Data\MeshComm.Data.csproj" />
+    <ProjectReference Include="..\MeshComm.Entities\MeshComm.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

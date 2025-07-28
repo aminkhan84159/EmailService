@@ -1,0 +1,35 @@
+[
+  {
+    "ContainingType": "MeshComm.API.Controllers.EmailController",
+    "Method": "SendEmailAsync",
+    "RelativePath": "api/Email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sendEmailRequest",
+        "Type": "MeshComm.Data.Messages.Email.SendEmailRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [],
+    "EndpointName": "EmailController-SendEmailAsync"
+  },
+  {
+    "ContainingType": "MeshComm.API.Controllers.WebhookController",
+    "Method": "HandleWebhookAsync",
+    "RelativePath": "api/Webhook",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "webhookRequest",
+        "Type": "MeshComm.Data.Messages.Webhook.WebhookRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

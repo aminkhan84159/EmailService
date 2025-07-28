@@ -1,0 +1,17 @@
+C:\Users\AminKhan\source\repos\EmailService\Gdtc.MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.csproj.AssemblyReference.cache
+C:\Users\AminKhan\source\repos\EmailService\Gdtc.MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AminKhan\source\repos\EmailService\Gdtc.MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.AssemblyInfoInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\Gdtc.MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.AssemblyInfo.cs
+C:\Users\AminKhan\source\repos\EmailService\Gdtc.MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.csproj.CoreCompileInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\bin\Debug\net8.0\MeshComm.Business.Api.deps.json
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\bin\Debug\net8.0\MeshComm.Business.Api.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\bin\Debug\net8.0\MeshComm.Business.Api.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.csproj.AssemblyReference.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.AssemblyInfoInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.AssemblyInfo.cs
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.csproj.CoreCompileInputs.cache
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\refint\MeshComm.Business.Api.dll
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\MeshComm.Business.Api.pdb
+C:\Users\AminKhan\source\repos\EmailService\MeshComm.Business.Api\obj\Debug\net8.0\ref\MeshComm.Business.Api.dll

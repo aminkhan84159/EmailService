@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MeshComm.Core\MeshComm.Core.csproj" />
+    <ProjectReference Include="..\MeshComm.Entities\MeshComm.Entities.csproj" />
+    <ProjectReference Include="..\MeshComm.Template\MeshComm.Template.csproj" />
+  </ItemGroup>
+
+</Project>
