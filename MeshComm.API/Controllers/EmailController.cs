@@ -10,7 +10,7 @@ namespace MeshComm.API.Controllers
     [Route("api/[controller]")]
     public class EmailController(
         ILogger<EmailController> _logger,
-        IEmailManager _EmailManager) : 
+        IEmailManager _emailManager) : 
         ApiController(_logger)
     {
         [HttpPost(Name = "EmailController-SendEmailAsync")]
@@ -18,7 +18,7 @@ namespace MeshComm.API.Controllers
         {
             return await GetResponseAsync(async () =>
             {
-                var sendEmailResponse = await _EmailManager.SendEmailAsync(sendEmailRequest);
+                var sendEmailResponse = await _emailManager.SendEmailAsync(sendEmailRequest);
 
                 return Ok(sendEmailResponse);
             });
