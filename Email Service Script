@@ -1,0 +1,20 @@
+CREATE TABLE EmailLog(
+  `EmailLogId` INT NOT NULL AUTO_INCREMENT,
+  `RequestId` VARCHAR(256) NOT NULL,
+  `RequestingApplication` VARCHAR(1000) NOT NULL,
+  `EmailBody` VARCHAR(1000) NOT NULL,
+  `RecipientEmail` VARCHAR(1000) NOT NULL,
+  `Cc` VARCHAR(1000),
+  `Bcc` VARCHAR(1000),
+  `ResponseObject` VARCHAR(1000) NOT NULL,
+  `EmailTransmissionState` VARCHAR(45) NOT NULL,
+  `IsActive` BIT DEFAULT 1,
+  `CreatedBy` INT NOT NULL DEFAULT 3,
+  `CreatedOn` DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `UpdatedBy` INT,
+  `UpdatedOn` DATETIME,
+  `Version` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  CONSTRAINT `PK_EmailLog_EmailLogId` PRIMARY KEY (`EmailLogId`),
+  CONSTRAINT `DF_EmailLog_IsActive` CHECK (`IsActive` IN (0,1)),
+  CONSTRAINT `DF_EmailLog_CreatedBy` CHECK (`CreatedBy` >= 0));
+  
